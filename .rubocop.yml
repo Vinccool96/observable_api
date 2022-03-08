@@ -9,5 +9,8 @@ Style/StringLiteralsInInterpolation:
   Enabled: true
   EnforcedStyle: double_quotes
 
+Style/EndOfLine:
+  EnforcedStyle: lf
+
 Layout/LineLength:
   Max: 120
